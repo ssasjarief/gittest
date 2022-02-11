@@ -1,0 +1,1 @@
+<?php echo "Ramot sudah masuk!"; ?>
